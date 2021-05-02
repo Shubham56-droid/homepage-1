@@ -1,3 +1,4 @@
-# Homepage
-My very own personal website. Basically this is just a résumé.
+# Resume
+My very own personal website.
+Basically this is just a résumé.
 🧙Hocus-pocus
